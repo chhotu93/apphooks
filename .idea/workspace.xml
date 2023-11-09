@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6c8397b-5280-4153-8bf2-999eb9087d24" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2U6H5lyRGWY00u7gGP8gY5HRmBA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindowExcelReader.ShowToolbar": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/appscook/AppscookUIAutomation",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\appscook\AppscookUIAutomation" />
+      <recent name="C:\Users\Admin\Desktop\Y2Tek_17\y2tek-int-ui-automation" />
+      <recent name="C:\Users\Admin\Desktop\Y2Tek_17\y2tek-int-ui-automation\src\main\java\com\y2tek\pageObjects\botUserObj" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Desktop\30aug\AppscookAutomation\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.y2tek.pageObjects.superAdminObj" />
+      <recent name="com.y2tek.pageObjectTest.superAdminTest" />
+      <recent name="com.y2tek.pageObjectTest.superAdmin" />
+      <recent name="com.qa.constants" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Admin/Desktop/appscook/AppscookUIAutomation/testng.xml">
+    <configuration name="C:/Users/Admin/Desktop/appscook/AppscookUIAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appscook_UI_Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Admin/OneDrive/Desktop/30aug/AppscookAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appscook_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Admin/OneDrive/Desktop/30aug/Automation/superadmin.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="y2tek_ui_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/superadmin.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Admin/OneDrive/Desktop/30aug/Automation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="y2tek_ui_automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettingPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="appscook_UI_Automation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Appscook.pageObjectTest.botUserTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Appscook.pageObjectTest.botUserTest" />
+      <option name="MAIN_CLASS_NAME" value="com.Appscook.pageObjectTest.botUserTest.SettingPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Admin/Desktop/appscook/AppscookUIAutomation/testng.xml" />
+        <item itemvalue="TestNG.SettingPageTest" />
+        <item itemvalue="TestNG.C:/Users/Admin/OneDrive/Desktop/30aug/AppscookAutomation/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/Admin/OneDrive/Desktop/30aug/Automation/testng.xml" />
+        <item itemvalue="TestNG.C:/Users/Admin/OneDrive/Desktop/30aug/Automation/superadmin.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6c8397b-5280-4153-8bf2-999eb9087d24" name="Changes" comment="" />
+      <created>1692252934701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692252934701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Appscook/pageObjects/botUserObj/SettingPage.java</url>
+          <line>114</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Appscook/pageObjects/botUserObj/SettingPage.java</url>
+          <line>183</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Appscook/pageObjects/botUserObj/SettingPage.java</url>
+          <line>36</line>
+          <properties field="SelectionProcessOption" class="com.Appscook.pageObjects.botUserObj.SettingPage" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
