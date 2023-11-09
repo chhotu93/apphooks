@@ -53,7 +53,7 @@ public class WebDriverFactory {
   public void ReportSetup() throws IOException {
     htmlReporter =
         new ExtentHtmlReporter(
-            System.getProperty("user.dir") + "/test-output/STMExtentReport.html");
+            System.getProperty("user.dir") + "/target/STMExtentReport.html");
     extent = new ExtentReports();
     extent.attachReporter(htmlReporter);
     extent.setSystemInfo("Application Name", "appscook");
