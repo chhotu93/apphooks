@@ -25,7 +25,7 @@ public class TakeScreenshot extends WebDriverFactory
 
 			//Move image file to new destination
 
-			File DestFile=new File("./Screenshot/"+screenshotName+System.currentTimeMillis()+".png");
+			File DestFile=new File("./screenshot/"+screenshotName+System.currentTimeMillis()+".png");
 
 			//Copy file at destination
 
@@ -34,7 +34,7 @@ public class TakeScreenshot extends WebDriverFactory
 			log.info("Screenshot Captured");
 
 		} catch (Exception e) {
-			log.info("Exception while taking Screesnhot"+e.getMessage());
+			log.info("Exception while taking screesnhot"+e.getMessage());
 		}
 		return screenshotName;
 	}

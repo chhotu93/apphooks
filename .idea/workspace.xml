@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6c8397b-5280-4153-8bf2-999eb9087d24" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Screenshot/Exception1699507367047.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/Exception1699507410868.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/Exception1699507468818.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/Exception1699507505223.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/Exception1699507549337.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/candidateEvaluation1699507367206.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/candidateEvaluation1699507505382.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/logo1699507353323.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/logo1699507493970.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshot/selectionProcess1699507558979.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/application.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/testlog.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/testlog1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Appscook/listeners/TakeScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Appscook/listeners/TakeScreenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/STMExtentReport1.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/STMExtentReport1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

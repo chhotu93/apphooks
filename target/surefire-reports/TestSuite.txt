@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 162.27 s <<< FAILURE! - in TestSuite
+selectionProcessPageTest(com.Appscook.pageObjectTest.botUserTest.SettingPageTest)  Time elapsed: 26.412 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at com.Appscook.pageObjectTest.botUserTest.SettingPageTest.selectionProcessPageTest(SettingPageTest.java:51)
+
+admissionProcessPageTest(com.Appscook.pageObjectTest.botUserTest.SettingPageTest)  Time elapsed: 24.236 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at com.Appscook.pageObjectTest.botUserTest.SettingPageTest.admissionProcessPageTest(SettingPageTest.java:59)
+
